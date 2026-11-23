@@ -1,0 +1,17 @@
+Train:
+0    2010-01-04
+Name: date, dtype: str
+2107    2018-07-09
+Name: date, dtype: str
+
+Val:
+2128    2018-08-07
+Name: date, dtype: str
+2563    2020-06-04
+Name: date, dtype: str
+
+Test:
+2584    2020-07-07
+Name: date, dtype: str
+3040    2022-10-26
+Name: date, dtype: str
